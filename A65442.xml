@@ -1,0 +1,911 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The revelation of Jesus Christ just as he spake it in verses at several times, and sometimes in prose, unto his faithful servant Anne Wentworth, who suffereth for his name : containing mercy and judgment, comforts to Zion, but woes to Babylon / published by a friend in love to souls, for the good of such as will receive and believe the truth ...</title>
+            <author>Jesus Christ (Spirit)</author>
+         </titleStmt>
+         <extent>Approx. 51 KB of XML-encoded text transcribed from 14 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A65442</idno><idno type="EEBO-CITATION">17243029</idno>
+  <idno type="VID">106279</idno>
+  <idno type="EEBO-PROQUEST">2240871169</idno>
+  
+            <idno type="STC">Wing W1355</idno>
+            <idno type="STC">ESTC R38248</idno>
+            <idno type="OCLC">17243029</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A65442)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 106279)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1162:7)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The revelation of Jesus Christ just as he spake it in verses at several times, and sometimes in prose, unto his faithful servant Anne Wentworth, who suffereth for his name : containing mercy and judgment, comforts to Zion, but woes to Babylon / published by a friend in love to souls, for the good of such as will receive and believe the truth ...</title>
+                  <author>Jesus Christ (Spirit)</author>
+                  <author>Wentworth, Anne.</author>
+               </titleStmt>
+               <extent>[4], 23 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.] ...,</publisher>
+                  <pubPlace>[London?] printed :</pubPlace>
+                  <date>1679.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"The title afore is as the Lord gave it himself, as soon as ever she did awake very early in the morning ..."</note>
+                  <note>Imperfect: cropped, with loss of print.</note>
+                  <note>Reproduction of original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Private revelations.</term>
+               <term type="topical_term">Visions.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-06 </date>
+            <label>John Latta </label>Sampled and proofread </change>
+         <change>
+            <date>2014-06 </date>
+            <label>John Latta</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:106279:1"/>
+            <p>THE REVELATION OF Jesus Christ, just as he spake it in Verses at several times, and sometimes in Prose, unto his Faithful Servant <hi>Anne Wentworth,</hi> who suffereth for his Name.</p>
+            <p>CONTAINING Mercy and Judgment, Comforts to Zion, but Woes to <hi>Babylon.</hi>
+            </p>
+            <p>
+               <gap reason="illegible: blotted" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>blished by a Friend in love to Souls, for the good of <gap reason="illegible: blotted" extent="1 letter">
+                  <desc>•</desc>
+               </gap>uch, as will receive and believe the Truth; for every word of God is true, therefore be still and know, he is God.</p>
+            <p>Title afore is, as the Lord gave it himself, as soon as ever <gap reason="illegible: blotted" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>e did awake, very early in the morning. And the Lord <gap reason="illegible: blotted" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>d further, Let the Book be given away with all speed, <gap reason="illegible: blotted" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> give it double again. And if any one desires further <gap reason="illegible: blotted" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>sfaction, let him repair to <hi>Kings-Head-Court</hi> in <hi>White-<gap reason="illegible: blotted" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>-street,</hi> where she hath lived these 12 years.</p>
+            <p>Printed <hi>An. Dom.</hi> 1679.</p>
+         </div>
+         <div type="epigraphs">
+            <pb facs="tcp:106279:2"/>
+            <q>
+               <bibl>
+                  <hi>Jer. 13.15.</hi>
+               </bibl>
+               <p>Hear ye, and give ear, be not proud; for the Lord hath spoken.</p>
+            </q>
+            <bibl>
+               <hi>Psal. 8.2.</hi>
+            </bibl>
+            <p>Out of the mouth of babes and sucklings hast thou or<g ref="char:EOLunhyphen"/>dained strength, because of thine enemies, that thou mighte still the enemy and the avenger.</p>
+            <q>
+               <bibl>
+                  <hi>1 Cor. 1.27, 28.</hi>
+               </bibl>
+               <p>God hath chosen the foolish things of the worl<gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> to confound the wise; and God hath chosen the weak things <gap reason="illegible: missing" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> the world, to confound the things which are mighty: And b<gap reason="illegible: missing" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> things of the world, and things which are despised, hath G<gap reason="illegible: missing" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> chosen; yea, and things which are not, to bring to n<gap reason="illegible: blotted" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ught thi<gap reason="illegible: missing" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> that are. That no flesh should glory in his presence.</p>
+            </q>
+            <q>
+               <bibl>
+                  <hi>Psal. 9.3, 4.</hi>
+               </bibl>
+               <p>When mine enemies are turned back, they shall <gap reason="illegible: missing" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> and perish at thy presence. For thou hast maintained my ri<gap reason="illegible: missing" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> and my cause; thou satest in the throne judging right.</p>
+            </q>
+            <q>
+               <bibl>
+                  <hi>Mat. 12.37.</hi>
+               </bibl>
+               <p>By thy words thou shalt be justified, and by thy wo<gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> thou shalt be condemned.</p>
+            </q>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:106279:2"/>
+            <p>HEre are presented to thee a few Verses, written by the hand of <hi>Anne Wentworth,</hi> who thought not to have published any thing this way, till she had made ready her whole Testimony, given her by the Lord <hi>Jesus,</hi> to de<g ref="char:EOLhyphen"/>clare to the World; but some of these Verses falling into the hand of one, that was once an Enemy to her, they so wrought upon her, that she resolved to have them Printed: but be<g ref="char:EOLhyphen"/>ing advised by a Friend, to acquaint Mrs. <hi>Wentworth</hi> first with it, to the end, it might be done without offence; which she did accordingly, desiring leave of her, to make it this way publick, for the good of Souls. Mrs. <hi>Wentworth</hi> desired two or three days time, to consider of it; during which time, (as her usual manner is) she in prayer enqui<g ref="char:EOLhyphen"/>red of the Lord, what she should do in this thing: and the Lord answered her, it was his will, that it should be made publick, and therefore bad her, not to oppose it, for it should convince some, who had shamefully reproached, and bitterly reviled, and persecuted her, for obeying the voice of the Lord, and keeping the Commandments of Christ, and that this warning should leave all others without excuse, and that therefore she should not stop it. So when the party came again, she had Mrs. <hi>Wentworths</hi> free consent: adding, that whoever did question the truth of what is here Printed, she would not be ashamed to own it, as being well assured, that she had received it from the Lord, who hath made her many gracious promises, and hath already fulfilled divers of them; as many that fear the Lord can witness, how wonderfully he hath owned her, though she be rejected by all her Relations, and left by them to shift for her self, yet is not she left by the Lord, who doth wonderfully support and supply her in all her wants, because she hath been obe<g ref="char:EOLhyphen"/>dient to the Divine Revelation, though this obedience of
+<add>
+                  <pb facs="tcp:106279:3"/> her hath y<seg rend="sup">e</seg> only cause of her being forsaken reviled</add> and reproached. But I hope, that these things will have a better effect upon thee, whosoever thou art, which that it may shall be the prayer of thy Souls well-wisher.</p>
+         </div>
+         <div type="to_the_reader">
+            <head>ADVERTISEMENT.</head>
+            <p>THis short account I received from Mrs. <hi>Wentworth,</hi> which I give unto the World, that they may know in what manner the Lord usually speaks to her; his time of teaching her is, for the most part, in the Night, when others are asleep, then doth she hear the Voice of God, which is very sweet and pleasant to her, but having no opportunity then, to write down what is spoken to her, as soon as she is risen, she begs of God, that if it be his will, that the words, he spake to her, should be made known, that he would be pleased, to bring it fresh again to her memory, if any thing be for<g ref="char:EOLhyphen"/>got by her: and upon her request the Lord is used to pour it upon her, as a mighty Stream, that she cann<gap reason="illegible: missing" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> rest, nor mind any thing in the World, nor sp<gap reason="illegible: faint" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>, nor understand what others say to her, until she have put all in writing, and so answered the mind of God. And she declares, that if it were to gain the whole World, she cannot write in Verse at any other time, but when the Lord teacheth her, and poureth down his Spirit upon her.</p>
+         </div>
+      </front>
+      <body>
+         <div n="1677" type="year">
+            <pb facs="tcp:106279:3"/>
+            <head>
+               <hi>Anno</hi> 1677.</head>
+            <div n="1" type="revelation">
+               <head>
+                  <hi>Revelation I.</hi> Sept. <hi>6.</hi> A Cry to the City of <hi>LONDON.</hi>
+               </head>
+               <p>PRepare, to see that, which never was, nor never will be again; prepare, to meet the Lord. Have a care of despising, censuring and false speaking, for no Lyar shall enter into the Kingdom of God. Some are guilty of so much, that they cannot enter, except God give them repen<g ref="char:EOLhyphen"/>tance. Make haste! fly to the Ark! outside profession Fig-leaves will not serve. Look well to your selves; take no thought, nor be concerned for me, but let me alone. <hi>England</hi> had never such cause to weep! <hi>England</hi> is under a great woe! O <hi>England,</hi> the anger of the Lord is turned against thee! <hi>Eng<g ref="char:EOLhyphen"/>land</hi> is guilty of that, which hath wrought its doom! A most doleful stroke is a coming, and no way to escape it. Perillous times are at hand. Satan is upon his last legs. Proud Phari<g ref="char:EOLhyphen"/>sees and Hypocrites cannot stand. Foolish Virgins will appear and be known; and the door will be shut against them. Hearken to this all you, that are in forms of Religion; for it is not form, but power, that will secure you from the wrath of God in the evil day.</p>
+            </div>
+            <div n="2" type="revelation">
+               <head>
+                  <hi>Revelation II.</hi> March <hi>22.</hi>
+               </head>
+               <argument>
+                  <p>Thus the Lord spake, and said unto me: <hi>I stand ready, to execute my righteous Judgments upon</hi> England, <hi>for their abomi<g ref="char:EOLhyphen"/>nations are great. And seeing they will not believe, that I the Lord did send thee, they shall know with a witness, it is I the Lord
+<add>
+                           <pb facs="tcp:106279:4"/> that sent y<seg rend="sup">e</seg> to speak unto y<seg rend="sup">m</seg> &amp; for y<seg rend="sup">r</seg> disregarding of</add> my word, and great contempt of thee, my Messenger; and gross abuse, and great neglect of thee, whilst thou art in my service, I am risen. Their sins are so great, that my hand and rod shall be heavy upon them.</hi>
+                  </p>
+               </argument>
+               <l>Woe to <hi>England!</hi> for she will now smart,</l>
+               <l>Who wounded thee deep unto the heart.</l>
+               <l>Woe unto <hi>England!</hi> for she will bleed,</l>
+               <l>For Gods commands they will not heed.</l>
+               <l>Woe to <hi>England!</hi> that doth not love God,</l>
+               <l>Therefore shall she feel King <hi>Jesus</hi> Rod.</l>
+               <l>Woe to <hi>England!</hi> that love themselves more than him,</l>
+               <l>Therefore he will severely scourge all of them;</l>
+               <l>Who preach, and pray, and do call upon his Name,</l>
+               <l>When no love to God is in doing of the same.</l>
+               <l>For if you love God, why do ye then me so hate?</l>
+               <l>And why so high, will not repent, before it be too late?</l>
+               <l>What cause do I give, but that Gods commands I keep?</l>
+               <l>And why are you so angry at this, to make me oft to weep?</l>
+               <l>Is there any other cause I have given unto thee,</l>
+               <l>To be so angry, but because the Love of God is great to me?</l>
+               <l>There is little of sound Christianity for to be seen,</l>
+               <l>But very much of cruelty a long time hath been.</l>
+               <l>And because <hi>Englands</hi> Christianity is grown so cool,</l>
+               <l>It will make sweet <hi>England</hi> Passing-Bell to toll.</l>
+               <l>It doth begin to ring, and calls unto the Grave</l>
+               <l>For those, that no mercy to their fellow Creatures have.</l>
+               <l>Heark! Heark! do you not hear the great Bell ring?</l>
+               <l>Will you not hear, nor believe, until you see the King?</l>
+               <l>And hear him speak in wrath and anger unto all you,</l>
+               <l>And then alas! how will ye answer? or what will you do?</l>
+               <l>If he should once say, <hi>Depart away from him,</hi>
+               </l>
+               <l>How can you offer any more to come to him again?</l>
+               <l>Do you think with all your Lyes, that you will enter then</l>
+               <l>Into Heaven? when he saith, No Liar there shall come?</l>
+               <l>Will you sleep unto death, and not see King <hi>Jesus</hi> on his Throne?</l>
+               <l>Will you not awake, and trim your Lamps, to meet the Bridegroom?</l>
+               <pb n="3" facs="tcp:106279:4"/>
+               <l>Will you not hear, until the great Thunder-clap doth come?</l>
+               <l>Will you not awake, to hear him roar aloud out of <hi>Zion?</hi>
+               </l>
+               <l>Will you not see, how it is now the dead time of the night?</l>
+               <l>Will you not see the Lord come in the Clouds you fright?</l>
+               <l>If you will neither hear, nor see, how can I help it then?</l>
+               <l>What need I say any more unto you, that are wise men?</l>
+               <l>If you will not hear the words of the Lord,</l>
+               <l>It is sure, my words you will not regard;</l>
+               <l>But slight all, as heretofore you have done,</l>
+               <l>So now I leave all to God, and let you alone,</l>
+               <l>For him and you to fight out the Battel begun,</l>
+               <l>And he will not give out, or go back until he have done.</l>
+            </div>
+         </div>
+         <div n="1678" type="year">
+            <head>
+               <hi>Anno</hi> 1678.</head>
+            <div n="3" type="revelation">
+               <head>
+                  <hi>Revelation III.</hi> April <hi>6.</hi>
+               </head>
+               <argument>
+                  <p>The Lord shewed me how he did hate the abominations of the people, in what they had done, in loving Man, more than God: And said, <hi>The words and ways of the people are loathsome in my sight, and do wound and pierce me.</hi> And then he spake thus in verse, causing me to write down.</p>
+               </argument>
+               <l>The <hi>English</hi> people they have a God,</l>
+               <l>And who is that? it is but a man,</l>
+               <l>They love above God; so he will whip by his Rod,</l>
+               <l>And now to prevent him no one can.</l>
+               <l>If any reason would but have satisfied them,</l>
+               <l>If they had not gone so long in their shame,</l>
+               <l>Then some hopes there would have been,</l>
+               <l>That so great Judgment would not been seen,</l>
+               <l>As now will come swiftly upon the Land,</l>
+               <l>Poured down by the Lords own hand.</l>
+               <l>For when a People is given up for destruction,</l>
+               <l>They must be blind and hardned in their corruption.</l>
+               <pb n="4" facs="tcp:106279:5"/>
+               <l>And when the Lord bids his Angels kill and slay,</l>
+               <l>Then all the World his hand cannot stay.</l>
+               <l>And sinners, they will not hear, until he do come,</l>
+               <l>But Saints, do ye hear, for he for you will make room.</l>
+               <l>To live, and rejoyce, and praise his most holy Name,</l>
+               <l>Who by his own Bloud wrought for you the same.</l>
+               <l>But the Hypocrites in <hi>Zion</hi> they will all mourn,</l>
+               <l>All the wicked, proud in heart, that did so scorn,</l>
+               <l>When they see the Battel of the Lord to be fought,</l>
+               <l>And how it was the Lord alone, that me taught,</l>
+               <l>And in his strength I was by Grace enabled to stand,</l>
+               <l>Against all my Enemies, with his Battel-ax in my hand,</l>
+               <l>To wound, kill, amaze, put to flight, and cut them down,</l>
+               <l>And when they are in their Graves, I shall wear a Crown.</l>
+               <l>O this God! so great in power! wonderful is his Name!</l>
+               <l>Who will exalt those of low degree, &amp; give his Enemies shame.</l>
+               <l>When the time, to advance poor <hi>Mordecai,</hi> was come,</l>
+               <l>Then was the time, for to hang up proud <hi>Haman.</hi>
+               </l>
+               <l>Come all Saints, come sing and rejoyce with me,</l>
+               <l>At <hi>Babylons</hi> fall, and the glorious days, which ye shall see:</l>
+               <l>When the great Battel is fought, the day past, and all done,</l>
+               <l>Then all Honour, Glory and Praise to God must be sung.</l>
+               <l>Rejoyce, ye Heavens and Prophets, for God avengeth your Cause,</l>
+               <l>That <hi>Babylon</hi> would have deprived you of by her unjust Laws.</l>
+               <l>This is a great Mysterie, who now can this read?</l>
+               <l>And know it rightly, and in so narrow a path doth tread?</l>
+               <l>Who is able to bear, to have whole <hi>Babylon</hi> come down?</l>
+               <l>Who can endure to hear, that they are in <hi>Babylon?</hi>
+               </l>
+               <l>Who doth think, that in <hi>England</hi> is the painted Whore?</l>
+               <l>Who did think, they should ever hear of me any more?</l>
+               <l>When they sit as Queen, and say, they shall have no sorrow,</l>
+               <l>I am raised up again, and freed from all their horror.</l>
+               <l>When they thought, to put me in the Grave, &amp; have me slain,</l>
+               <l>I am raised up more strong, and brought to Life again.</l>
+            </div>
+            <div n="4" type="revelation">
+               <pb facs="tcp:106279:5"/>
+               <head>
+                  <hi>Revelation IV.</hi> October <hi>8.</hi>
+               </head>
+               <argument>
+                  <p>
+                     <hi>Came the word of the Lord unto me, and said thus.</hi>
+                  </p>
+               </argument>
+               <l>When Judgments are come to the door,</l>
+               <l>
+                  <hi>Babylon</hi> will be burnt, that painted Whore!</l>
+               <l>All in a Fire and great Flame will she be,</l>
+               <l>Her Plagues come, and they will not see.</l>
+               <l>They stop their Ears, they shut their Eyes</l>
+               <l>Against the Truth, and are deceived by Lyes:</l>
+               <l>And when they are called, to come out of her,</l>
+               <l>The voice of God they do not mind, but it abhor.</l>
+               <l>Rase her down root and branch flat to the ground,</l>
+               <l>
+                  <hi>All Europe over</hi> will the Lord do it round.</l>
+               <l>
+                  <hi>In Scotland Judgments first there begun,</hi>
+               </l>
+               <l>But upon <hi>England</hi> greater now will come.</l>
+               <l>
+                  <hi>Ireland</hi> surely will also deeply suffer then,</l>
+               <l>
+                  <hi>England</hi> also shall lose her brave men.</l>
+               <l>
+                  <hi>Hol and, France, Italy,</hi> and also <hi>Spain,</hi>
+               </l>
+               <l>By all our loss they will not gain.</l>
+               <l>All Nations will suffer round about,</l>
+               <l>For the Whore hath spread her self throughout.</l>
+               <l>Where shall Gods Children now then hide,</l>
+               <l>When God is so very angry, and doth chide?</l>
+               <l>No safety upon Earth, but to get within the Ark,</l>
+               <l>In the Covenant of Grace, and from God have a mark.</l>
+               <l>Make ready, get Oyl to your Lamp,</l>
+               <l>That God may hide you in his Camp.</l>
+               <l>Give up to God our all, and wholly in him let us trust;</l>
+               <l>Fear not Men, nor Devils, but yield to God we must,</l>
+            </div>
+            <div n="5" type="revelation">
+               <head>
+                  <hi>Revelation V.</hi> October <hi>8.</hi>
+               </head>
+               <argument>
+                  <p>
+                     <hi>When I had writ this, then the Lord said further con<g ref="char:EOLhyphen"/>cerning the King,</hi>
+                  </p>
+               </argument>
+               <l>Woe to <hi>England,</hi> when the Kings Life is gone!</l>
+               <l>All may pray, that no hurt to him may be done.</l>
+               <pb facs="tcp:106279:6"/>
+               <l>Now the Plot is found out, all yet is not past,</l>
+               <l>For it's well, if that his Life do escape at last.</l>
+               <l>He now warning hath, if he will notice of it take,</l>
+               <l>We may pray hard for his Life, for <hi>Englands</hi> sake!</l>
+            </div>
+         </div>
+         <div n="1679" type="year">
+            <head>
+               <hi>Anno</hi> 1679.</head>
+            <div n="6" type="revelation">
+               <head>
+                  <hi>Revelation VI.</hi> March <hi>8.</hi>
+               </head>
+               <argument>
+                  <p>
+                     <hi>The Lord spake to me in these Verses, which follow.</hi>
+                  </p>
+               </argument>
+               <l>A great wonder from Heaven will be wrought,</l>
+               <l>And no Creature upon Earth hath me taught.</l>
+               <l>The Promises, that five years ago the Lord made to me,</l>
+               <l>He will fulfil openly for my Friends to see:</l>
+               <l>And the reason why it came no sooner to be seen,</l>
+               <l>I was not strong enough in Spirit, nor they ripe enough in Sin.</l>
+               <l>
+                  <hi>I was not at all deceived about New-years-day,</hi>
+               </l>
+               <l>
+                  <hi>For all the Lord revealed to me, came to pass in his own way.</hi>
+               </l>
+               <l>It was their own blindness made them rail like mad,</l>
+               <l>To bring such woes on themselves, that will be very sad.</l>
+               <l>Those that will divide my Message, and not take it all,</l>
+               <l>But an Angel of wrath they will still me call,</l>
+               <l>They had better be silent, and speak nothing,</l>
+               <l>For over all <hi>Europe</hi> will their shame and sin ring.</l>
+               <l>For my message is Truth, and in it there is no Lye,</l>
+               <l>But Mercy and Judgment, that is still the Cry.</l>
+               <l>You may take it or leave it, that is all one to me,</l>
+               <l>For Judgments will come, good and bad, you will see:</l>
+               <l>For with the Nation God is exceeding wroth,</l>
+               <l>That the Vials of his wrath he will pour forth.</l>
+               <l>For it is the will of God, which I now have done,</l>
+               <l>And as for my own will, of that I have none:</l>
+               <l>For on this message I would not have gone,</l>
+               <l>But the Lord sent me forth, and he brought me home.</l>
+               <l>To go on such an Errand, it was no pleasing thing,</l>
+               <l>And be so much abused, but I must obey my King.</l>
+            </div>
+            <div n="7" type="revelation">
+               <pb n="7" facs="tcp:106279:6"/>
+               <head>
+                  <hi>Revelation VII.</hi> March <hi>29.</hi>
+               </head>
+               <opener>
+                  <salute>To my loving Friends.</salute>
+               </opener>
+               <l>Keep waking and watching, upon your Guard now stand,</l>
+               <l>Girt about with Truth, and Sword of the Spirit in your hand.</l>
+               <l>Make ready to hear the shriks and doleful cries</l>
+               <l>Of those, that act in their cruelty and lies.</l>
+               <l>Expect to hear a great and mighty shout,</l>
+               <l>For with Enemies you are beset about.</l>
+               <l>Awake, and now arise, and sleep no more,</l>
+               <l>Lest ye all die with the painted Strumpet and great Whore.</l>
+               <l>All now prepare, and stand upon your Watch,</l>
+               <l>Lest grim Death and Hell do you now catch.</l>
+               <l>Look to see a most terrible black dismal day,</l>
+               <l>That will sweep the lives <hi>of thousands</hi> away:</l>
+               <l>And when your Bodies are dead, and all gone,</l>
+               <l>For to help you then, there will be none.</l>
+               <l>And this dreadful time is come so very near,</l>
+               <l>That will make the dead to rise, and deaf to hear.</l>
+               <l>You warning had, but no warning would ye take,</l>
+               <l>But hate the Messenger, for the Message sake.</l>
+               <l>Ye would not hear the words of God, but hate me,</l>
+               <l>And how justly God will return, you will see.</l>
+               <l>For the words of God you did slight and scorn,</l>
+               <l>So he aloud will sound his Trumpet and his Horn.</l>
+               <l>Because you did disdain his Word and slight him,</l>
+               <l>He now with great Thunderbolts will come:</l>
+               <l>For when the Lord of Life sends in love to warn you,</l>
+               <l>Ye slight his Word, because his Voice ye never knew.</l>
+               <l>So rise up in Arms, and you will fight with him,</l>
+               <l>And he now comes to fight with you all again.</l>
+               <l>For his Message was in faithfulness, and most true,</l>
+               <l>That all, that did refuse to hear, they now will rue</l>
+               <l>That ever they were so barbarous, and so hardly did use</l>
+               <l>His Messenger, like <hi>Turks</hi> and <hi>Heathens</hi> did ye me abuse.</l>
+               <pb n="8" facs="tcp:106279:7"/>
+               <l>No mercy from you Formal Professors could I find,</l>
+               <l>But all your Acts were only cruel and unkind.</l>
+               <l>I will as soon, put trust in <hi>Heathens,</hi> or in the <hi>Turk,</hi>
+               </l>
+               <l>As in Formal Professors to own me in the Lords work;</l>
+               <l>As much mercy from them may I expect then,</l>
+               <l>As from the Formal-professing <hi>Englishmen.</hi>
+               </l>
+               <l>But their little Christianity from Age to Age will be heard,</l>
+               <l>And the God of Heaven will not them regard:</l>
+               <l>He will say unto them, All you I do not know,</l>
+               <l>That no mercy unto my little one would show:</l>
+               <l>But into the Judgment-seat, ye all would climb;</l>
+               <l>But I the Lord will pull you down betime,</l>
+               <l>And lay you low as the Earth, and as small as the dust;</l>
+               <l>Men shall not rule o're my Children, but I must,</l>
+               <l>Who am their Captain, their Lord, and King,</l>
+               <l>My Name is <hi>Jesus,</hi> and I will do this thing.</l>
+               <l>And I will send Vapour and Smoak, Sword, Fire and Blood,</l>
+               <l>But Love and Peace I hold forth to all that are good.</l>
+               <l>All humble Christians, that love God above all,</l>
+               <l>Lie at the Throne of Grace, and upon him for mercy call;</l>
+               <l>For the Hypocrites in <hi>Zion,</hi> they all will mourn,</l>
+               <l>Being proud, high, lofty, and full of scorn.</l>
+               <l>
+                  <hi>A midnight cry you all will come to hear,</hi>
+               </l>
+               <l>
+                  <hi>That will you fright, and put you in great fear.</hi>
+               </l>
+               <l>But be still and look up unto God above,</l>
+               <l>For his Name is written <hi>All Mercy and Love,</hi>
+               </l>
+               <l>Unto his chosen Elect, and most precious Seed,</l>
+               <l>For to help them in their greatest time of need.</l>
+               <l>What means these people? will they never be content?</l>
+               <l>Unless I turn my back on God, and to them repent?</l>
+               <l>Who are as dead as Stocks, and harder than Stones;</l>
+               <l>But it is thou, O my God, that hearest all my groans,</l>
+               <l>And seest, no flesh and blood such a thing could bear,</l>
+               <l>That would rent a Stone, if it could but hear.</l>
+               <l>Quickly arise, O Lord! and speak aloud for me,</l>
+               <l>Behold all my Adversaries that are before thee.</l>
+            </div>
+            <div n="8" type="revelation">
+               <pb n="9" facs="tcp:106279:7"/>
+               <head>
+                  <hi>Revelation VIII.</hi> March <hi>31.</hi>
+               </head>
+               <argument>
+                  <p>
+                     <hi>The Lord shewed me why the people did not understand me, nor my work;</hi> Because they will not <hi>(saith the Lord)</hi> go to the root of the matter, but blind themselves with poring so much upon a <hi>Man and his Wife,</hi> and will look no further: but continue writing all faults in thy forehead, as delusions and disobeying of thy Husband, and see none in themselves: they are so stark blind, that they can see nothing at all of what I the Lord am a doing: They will not see, how I have placed the two Spirits in a <hi>Man and his Wife,</hi> to figure out <hi>Zion</hi> and <hi>Babylon,</hi> which I purposed be<g ref="char:EOLhyphen"/>fore the beginning of the World, after the counsel of my own will, before I formed thee in the womb; and they strive with their Maker, and would resist his will; but in fighting against me, they bring the greater blows upon themselves. <hi>And then the Lord spake thus in Verses:</hi>
+                  </p>
+               </argument>
+               <l>Full <hi>eighteen years</hi> in sorrow I did lye,</l>
+               <l>Then the Lord <hi>Jesus</hi> came to hear my cry;</l>
+               <l>In one nights time he did me heal,</l>
+               <l>From head to foot he made me well.</l>
+               <l>With Ointment sweet he did me anoint,</l>
+               <l>And this work he then did me appoint.</l>
+               <l>A hand in <hi>Babylons</hi> Ashes I must have,</l>
+               <l>For that end the Lord took me from the Grave,</l>
+               <l>And said, A new Body I the Lord will give thee,</l>
+               <l>To convince thy Enemies, if they could but see;</l>
+               <l>For they are both deaf, and also very blind,</l>
+               <l>That I the Lord may serve them in their kind:</l>
+               <l>They do know how I the Lord did make thee whole,</l>
+               <l>But they see not the Spirit of God in thee burn like a Coal:</l>
+               <l>For with a Coal from my Altar I the Lord touched thee,</l>
+               <l>Which none but the pure Spiritual Eye can see.</l>
+               <l>I the Lord will openly, and surely avenge thy cause,</l>
+               <l>Upon all thy Enemies, for their unjust Laws;</l>
+               <l>For all thy cries and groans entred into my Ear,</l>
+               <l>And I the Lord will make them stand in awe and fear.</l>
+               <pb n="10" facs="tcp:106279:8"/>
+               <l>For my Childrens wrongs, I the Lord will not forget,</l>
+               <l>But strike a blow, and all of them will I then hit.</l>
+               <l>From Heaven will I the Lord come to appear,</l>
+               <l>For to make them all my own voice to hear:</l>
+               <l>And all those, that long to see this thing done,</l>
+               <l>Must patiently wait till I the Lord do come.</l>
+            </div>
+            <div n="9" type="revelation">
+               <head>
+                  <hi>Revelation IX.</hi> April <hi>3.</hi>
+               </head>
+               <argument>
+                  <p>In the morning, as I lay still in my Bed, the Lord spake thus unto me with Power and great Authority, and in much fury, concerning these four persons by name.</p>
+               </argument>
+               <l>
+                  <hi>Wentworth, Hicks,</hi> and <hi>Dicks,</hi> and also <hi>Knowles,</hi>
+               </l>
+               <l>If they repent not, they shall lose their Souls:</l>
+               <l>And they are so stout, so proud, and very high,</l>
+               <l>They will hardly repent before they die:</l>
+               <l>And there is no repentance in the Grave,</l>
+               <l>Would they from God no mercy have?</l>
+               <l>What have they done now all this while,</l>
+               <l>But their own poor Souls cheat and beguile?</l>
+               <l>In setting the people all to rage at thee,</l>
+               <l>When I the Lord their sin and wickedness see:</l>
+               <l>And do not forget, what in this House was done,</l>
+               <l>For I did remember it, when I sent thee home.</l>
+               <l>Let those four men this thing now hear,</l>
+               <l>To try if yet they will regard the Lord, and him fear.</l>
+               <l>And thou must not fear none of these four men,</l>
+               <l>For if they come to hurt thee, I will help thee then:</l>
+               <l>If they any more fright, or with their tongues wound thee,</l>
+               <l>Then I the Lord say, sad with them it shall be.</l>
+               <l>And he, that is the Ring-leader of them all,</l>
+               <l>He first shall feel my hand, and into the pit fall,</l>
+               <l>Which they have digged very deep for thee,</l>
+               <l>But shall fall therein themselves thou shalt see.</l>
+               <l>Be thou bold, for to declare this thing,</l>
+               <l>How they are Traytors unto <hi>Jesus</hi> thy Lord, and King.</l>
+               <l>A company of Priests, murther in the way by consent,</l>
+               <l>For to kill the Spirit of God in all, is their intent.</l>
+               <pb facs="tcp:106279:8"/>
+               <l>But bid them now stop, they have done their worst,</l>
+               <l>And the day, these four men set on thee, is for ever curs'd;</l>
+               <l>Like unto the barren, and unfruitful Fig-tree,</l>
+               <l>So shall Idolatry, Hypocrisie, and Formality be:</l>
+               <l>Never Fruit to grow in their Garden any more,</l>
+               <l>For now they have run themselves all on shore.</l>
+               <l>And in their own colours they all now appear,</l>
+               <l>How cruelly they oppress my Elect, that is clear:</l>
+               <l>And would alway oppress my Children all my own,</l>
+               <l>If I the Lord will but alway let them alone.</l>
+               <l>As I live, saith the Lord, I will come, for I cannot bear</l>
+               <l>No longer, to hear the groans of my Children dear:</l>
+               <l>Who am their Rock, and their hiding-place too,</l>
+               <l>And I the Lord will all their yokes and bonds undo.</l>
+               <l>My Love, my Dove, my Spouse, make haste and come away,</l>
+               <l>Out of <hi>Babylon,</hi> and do not thou there stay:</l>
+               <l>Shake off thy rotten Rags, and all thy old Attire,</l>
+               <l>That I may cloath thee anew, and thee admire.</l>
+               <l>My Spouse, my Church and I, we both are one,</l>
+               <l>And none, but my beloved Church will I own.</l>
+               <l>I am their Head and Shepherd, and them will I keep,</l>
+               <l>They are my Lambs, my Body, and my Sheep.</l>
+               <l>I the Lord of Life am the chief corner-stone,</l>
+               <l>And for any other Body I the Lord have none:</l>
+               <l>Bu<gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> these, that follow me, and my Commands do keep,</l>
+               <l>I will wipe away their tears, that they no more do weep:</l>
+               <l>But the devouring Wolves I the Lord do not love,</l>
+               <l>But will cast them away, and build my Church above.</l>
+            </div>
+            <div n="10" type="revelation">
+               <head>
+                  <hi>Revelation X.</hi> April <hi>23.</hi>
+               </head>
+               <argument>
+                  <p>As I was sitting alone, came the word of the Lord unto me, and said:</p>
+               </argument>
+               <l>The Heavens frown, and Earth doth mourn,</l>
+               <l>And yet the people despise and scorn.</l>
+               <l>What shall the God of all mercy do?</l>
+               <l>For they will not look up, but pore below:</l>
+               <pb facs="tcp:106279:9"/>
+               <l>Nor for his warning they do not care:</l>
+               <l>Though he speaks aloud, and doth call</l>
+               <l>Upon sinners, to repent before they fall</l>
+               <l>Into the Pit, where they cannot return,</l>
+               <l>But will be swallowed up for all your scorn.</l>
+               <l>Unto this Nation God would shew love,</l>
+               <l>But they will not look up to him above:</l>
+               <l>What could the Lord now have done more,</l>
+               <l>Then to send, to warn all people, and the painted Whore?</l>
+               <l>But when he in love sends to warn them,</l>
+               <l>They rise up in Arms, to fight against him:</l>
+               <l>So the Lord will kill, and strike them dead</l>
+               <l>With his Sword, that hangs over their head:</l>
+               <l>He will smite, and give a most fatal blow,</l>
+               <l>For rejecting of him, they shall know,</l>
+               <l>How angry the Lord is at them all,</l>
+               <l>That did slight and scorn, when he did call:</l>
+               <l>He will kill, and slay with his own hand,</l>
+               <l>When he lets the <hi>French</hi> into our Land:</l>
+               <l>For the Nations sins are deep dyed in blood,</l>
+               <l>But for all his Saints surely it will be good.</l>
+               <l>Great patience the Lord hath now had,</l>
+               <l>But now he comes, to make his Children glad:</l>
+               <l>Which <hi>Babylon</hi> would have pressed down,</l>
+               <l>But the Saints shall sing, and wear the Crown:</l>
+               <l>And no joy like that, which God will send</l>
+               <l>Unto his Saints for ever unto the end.</l>
+               <l>Fear not, little Flock, your joy doth come,</l>
+               <l>For our Father will <hi>give us the Kingdom.</hi>
+               </l>
+            </div>
+            <div n="11" type="revelation">
+               <head>
+                  <hi>Revelation XI.</hi> July <hi>15.</hi>
+               </head>
+               <p>
+                  <hi>A Lamentation for a sort of people in the Nation, who the Lord saith unto me,</hi> are a proud, blind, scornful, lying, oppressing, persecuting, hard-hearted people in <hi>England. And the Lord let me see, who they are, and I know them by Name. And the
+<pb facs="tcp:106279:9"/> Lord said unto me further,</hi> Now out of my favour they are gone they are gone; undone, undone is this poor bleeding Nation; thou must weep, and mourn for them, that of a thousand there will escape but one, when the great calamity doth come: Then I the Lord will mock and laugh at them that reject my Word, and abuse my Messengers, my own Children, and make light of me, and will take no warning; for this I the Lord am angry, and I remember, what they have done to thee.</p>
+            </div>
+            <div n="12" type="revelation">
+               <head>
+                  <hi>Revelation XII.</hi> July <hi>20.</hi>
+               </head>
+               <p>
+                  <hi>Early in the morning, when I awaked, the Lord minded me of that man, who had been over-night to see me, and asked me, what News; and the next morning, as soon as I awaked, <gap reason="illegible: faint" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>e Lord said unto me:</hi> If any ask thee for News, thou must <gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ell them, that thou hast none, that will please any but only the little Flock of Christ, which are few in number, in respect of the great multitude, that go in the broad way, which leads down to Hell.</p>
+               <p>
+                  <hi>This morning the Lord did confirm it more fully unto me, why his anger was so highly kindled against these people in</hi> England, <hi>the Formalists, and Hypocrites, and foolish Virgins, which have overspread the Land; but that he will purge, prune and weed it: And said further unto me:</hi> Because thou art a true Child of God, and art my Little one, and my Messenger, to declare my mind and will, which thou hast performed: and I the Lord gave a sign unto the Nation, and fulfilled it; I have made good my word unto thee, nay have been better than my word unto thee: And yet these sottish, conceited, sleepy people will not awake, to behold the wonders of the Lord; they will not regard the Word which I the Lord speak unto thee, nor will they mind my doings: wherefore I the Lord have sworn by my Holiness, that these people, of all others, shall not go unpunished; for I will severely punish them, that have reviled, scorned, reproached, falsly accused, mocked and oppressed thy Soul and Conscience, to make it bleed in secret before me, many a time; notwithstanding that whosoever offends one of Christs little ones, it were better a Mill<g ref="char:EOLhyphen"/>stone
+<pb facs="tcp:106279:10"/> were hanged about their necks, and they cast into the midst of the Sea: For what they have done to thee, I take as done to me: so that my anger is highly kindled against them, that abuse my Messenger, reject my Word, and do despite to the Spirit of Grace. Some in particular, I the Lord have marked out, to bear my severe wrath; and now thou must write it down, and be a wit<g ref="char:EOLhyphen"/>ness how I will fulfill my Word upon them.</p>
+               <p>
+                  <hi>I the Lord say unto thee,</hi> That I will severely punish thy Husband, and <hi>William Dicks,</hi> for their sin is great.</p>
+               <p>
+                  <hi>And I the Lord say unto thee,</hi> That I will severely punish <hi>Hanserd Knollys,</hi> and his Church, for hardning of thy Husbands heart against thee, and for making of thee as an Heathen and Pub<g ref="char:EOLhyphen"/>lican, for no other cause but for thy obeying of my Word, in coming out of their Church, when I the Lord did call thee out, and com<g ref="char:EOLhyphen"/>mand thee to leave them.</p>
+               <p>
+                  <hi>And I the Lord say unto thee,</hi> That I will severely punish some of thy Kindred, for their unnaturalness unto thee, whilst thou was imployed in my Service; but who they are, and what it is, that I will do, I leave that to thee, whether thou wilt speak that or no, for they cannot bear it from thee.</p>
+               <p>
+                  <hi>And I the Lord say unto thee,</hi> That I will severely punish <hi>Philip Barder,</hi> for his calling of thee, to repent of the Lords work; and for his refusing of thee for his Tenant, when I the Lord sent thee; and for his being unwilling, to take my word, when he was ready, to take a mans word, a poor, blind, ignorant, dark Soul, that knows not me, nor what I am a doing; and he talked to the grief of thine heart, as others did wound and pierce thee, my faithful Servant.</p>
+            </div>
+            <div n="13" type="revelation">
+               <head>
+                  <hi>Revelation XIII.</hi> July <hi>24.</hi>
+               </head>
+               <argument>
+                  <p>
+                     <hi>The Lord said unto me,</hi> Though the people be a little awakned, and afraid of Judgments, yet they repent not, neither forsake their sins, which bring down these Judgments; and none are so sensible, as they should be, of my near approaching and coming.</p>
+               </argument>
+               <pb n="15" facs="tcp:106279:10"/>
+               <l>But I the Lord upon my Children now do call,</l>
+               <l>That in Faith and Prayer you now do keep:</l>
+               <l>Then shall my Angels now guard you all,</l>
+               <l>If you with others now do not sleep.</l>
+               <l>My promises, that I the Lord to you have made,</l>
+               <l>Now trust in my word for all your aid,</l>
+               <l>And you shall see whole <hi>Babylon</hi> fall,</l>
+               <l>That would kill, and destroy you all:</l>
+               <l>That painted Whore, that decks her self so very fine,</l>
+               <l>And paints her face so fair, to make it shine;</l>
+               <l>That she poor Souls may cheat and delude,</l>
+               <l>She surely will fall, you may conclude.</l>
+               <l>For to <hi>Babylon</hi> I the Lord have no more to say,</l>
+               <l>Seeing they are resolved, to go on in their own way,</l>
+               <l>And run a whoring after their own Idol God,</l>
+               <l>Until I the Lord plague them with my own Rod;</l>
+               <l>And say, No longer shall they cumber the ground,</l>
+               <l>
+                  <hi>I the Lord will cut them off before the year go round.</hi>
+               </l>
+               <l>Awake! Awvke! my dear Children, and sleep no more;</l>
+               <l>Now come, see the fall of the great Whore:</l>
+               <l>And when she is burnt, then will you hear her cry;</l>
+               <l>How she will say, Alas! alas! we dye! we dye!</l>
+               <l>
+                  <hi>And when we thought, others this cup should haeve,</hi>
+               </l>
+               <l>
+                  <hi>It falls upon our selves, and we go to the Grave.</hi>
+               </l>
+               <l>This will be the portion of whole <hi>Babylon,</hi>
+               </l>
+               <l>To cry and weep, and she sink like a Mill-stone.</l>
+               <l>
+                  <hi>Thousands</hi> ready to fall I the Lord see stand,</l>
+               <l>
+                  <hi>Thousands and thousands undone in poor</hi> England;</l>
+               <l>That into the bottomless Pit will now fall,</l>
+               <l>Which will devour, and swallow them up all.</l>
+               <l>Against them all will I the Lord shut the door,</l>
+               <l>Where they can never enter in any more:</l>
+               <l>For I the Lord do not know any of them,</l>
+               <l>That would kill and slay my own Children:</l>
+               <l>Would starve them to death with hunger and cold,</l>
+               <l>As I the Lord do see, and did it ost behold:</l>
+               <l>They would destroy my Church, even whole <hi>Zion,</hi>
+               </l>
+               <l>But I the Lord am come to save my own:</l>
+               <pb n="16" facs="tcp:106279:11"/>
+               <l>And those that follow me, and my commands do keep,</l>
+               <l>They shall with me for ever most sweetly sleep.</l>
+               <l>Come now whole <hi>Zion,</hi> come now and sing,</l>
+               <l>All Honour and Glory unto your God and King,</l>
+               <l>Who will deliver them, and set thee free,</l>
+               <l>I the Lord will do for them, as I have done for thee.</l>
+            </div>
+            <div n="14" type="revelation">
+               <head>
+                  <hi>Revelation XIV.</hi> July <hi>24.</hi>
+               </head>
+               <argument>
+                  <p>
+                     <hi>When I had ended this, and laid it by, and was retired alone in my Chamber, the same day the Lord spake to me again thus:</hi>
+                  </p>
+               </argument>
+               <l>I the Lord take up the Cudgels to fight with wicked men,</l>
+               <l>Who fight and make War with the Lamb then:</l>
+               <l>The false Prophets, and the great blind Beast,</l>
+               <l>That comes from North and South, and the East;</l>
+               <l>That are so blind, they can neither see nor hear,</l>
+               <l>Nor the God of Heaven they do not regard nor fear:</l>
+               <l>But would spread their Errors all over the Land,</l>
+               <l>But with their falshoods before me the Lord cannot stand.</l>
+               <l>My Church, my Spouse without spot must she be,</l>
+               <l>My beloved Bride must be all fair for me:</l>
+               <l>In Purple and Scarlet, cloathed all in white,</l>
+               <l>That to the World she may give her light.</l>
+               <l>It is I the Lord, who to thee now do speak,</l>
+               <l>And yet they will not regard, nor my word take:</l>
+               <l>By my Spirit I spake unto my Servants of old,</l>
+               <l>As by my Prophets I have you all foretold.</l>
+               <l>And I the Lord change not, but am still the same,</l>
+               <l>Who speak to thee my Daughter again and again.</l>
+               <l>And I the Lord now tell thee, that I will destroy,</l>
+               <l>And preserve thy Name, and record thy Loyalty:</l>
+               <l>When I cut off oppressors, and lying wicked men,</l>
+               <l>When they feel my hand, they will believe then:</l>
+               <l>And know, that it is I the Lord, who does all for thee,</l>
+               <l>Because thou art faithful in suffering for me:</l>
+               <l>Thy Name shall live, when thy Enemies are gone,</l>
+               <l>Because thou stoodst for Truth, when thou wast alone.</l>
+            </div>
+            <div n="15" type="revelation">
+               <pb n="17" facs="tcp:106279:11"/>
+               <head>
+                  <hi>Revelation XV.</hi> August <hi>3.</hi>
+               </head>
+               <argument>
+                  <p>The night of the late terrible Thunder, I lay awake a great part of the night, and after the Thunder did cease, the word of the Lord came unto me, and said:</p>
+               </argument>
+               <l>
+                  <hi>Zion,</hi> and <hi>Babylon</hi> they did fight it out,</l>
+               <l>And <hi>Zion</hi> did whole <hi>Babylon</hi> rout:</l>
+               <l>And wounded <hi>Babylon</hi> very deep,</l>
+               <l>That <hi>Zion</hi> might rejoyce and no more weep.</l>
+               <l>This is the thing, that I must proclaim,</l>
+               <l>How it was, and how it came:</l>
+               <l>Mercy and Judgment they did meet,</l>
+               <l>And with a holy Kiss each other greet:</l>
+               <l>Justice and Equity took Mercies part,</l>
+               <l>And Mercy stabbed <hi>Babylon</hi> to the heart:</l>
+               <l>That <hi>Babylon</hi> did bleed unto death;</l>
+               <l>Then the Lord put his Sword in his sheath.</l>
+               <l>When this monstrous Whore is dead and gone,</l>
+               <l>That would not leave a Saint, not one;</l>
+               <l>Makes her self drunk with the Saints Blood,</l>
+               <l>This great Whore did never do any good;</l>
+               <l>But doth all the mischief, that she can;</l>
+               <l>And the people makes a God of proud Man.</l>
+               <l>Away with their false ways altogether,</l>
+               <l>For Saints love God, and will love no other:</l>
+               <l>In Spirit and Truth the Holy God will we obey,</l>
+               <l>And let all forms and shadows flee away:</l>
+               <l>Let <hi>Babylon</hi> drink the dregs of the Cup,</l>
+               <l>Of which Gods Children did so often sup;</l>
+               <l>And tasted the bitterness of wrath, then</l>
+               <l>Given to Saints by the hand of wretched men.</l>
+               <l>But <hi>Jesus</hi> hath purchased Redemption for all</l>
+               <l>His own Elect, and reign with him they shall.</l>
+               <l>
+                  <hi>Come out of Babylon,</hi> the Lord calleth them</l>
+               <l>To make haste, and come to worship him.</l>
+               <pb n="18" facs="tcp:106279:12"/>
+               <l>Those that are deaf at this call, and will not hear,</l>
+               <l>The Lord will plague them all among them there.</l>
+               <l>And his pure Spiritual Church the Lord will plant,</l>
+               <l>For to destroy all <hi>Babylon</hi> the Lord doth grant:</l>
+               <l>And to his Angels he hath given his Commission forth,</l>
+               <l>Because with whole <hi>Babylon</hi> he is wroth:</l>
+               <l>And will cut her Name off, and make her stink,</l>
+               <l>Because they all together are so fast linkt:</l>
+               <l>For that evil Spirit in every place joyns hand in hand,</l>
+               <l>For to cut off Gods Children out of the Land.</l>
+               <l>The Church of Christ hath suffered very long,</l>
+               <l>But now his Church his Spouse is very strong;</l>
+               <l>And <hi>Babylon</hi> is weak, and very feeble brought,</l>
+               <l>Because of God, our God, she will not be taught:</l>
+               <l>For she scorns to learn in Christs School,</l>
+               <l>But saith, Every one that follows God, &amp; obeys him, is a Fool.</l>
+               <l>All <hi>Babylon</hi> are so wise in their own Eyes,</l>
+               <l>Nothing will please them but only Lyes:</l>
+               <l>Envy and malice riseth up to work very high,</l>
+               <l>But envy and malice must come down, and in Ashes lye.</l>
+               <l>The Spiritual Church, all of living Stones, will stand,</l>
+               <l>When <hi>Babylon</hi> and all her Brats, are purg'd out of the Land.</l>
+               <l>I see a great number of men stand like Trees,</l>
+               <l>And I see them swarm about the Nation like Bees:</l>
+               <l>But their number will be ere long very small,</l>
+               <l>When the great Gulf doth swallow them up all:</l>
+               <l>For <hi>one shall ten thousand</hi> chace,</l>
+               <l>And <hi>Zion</hi> she shall win the Race.</l>
+            </div>
+            <div n="16" type="revelation">
+               <head>
+                  <hi>Revelation XVI.</hi> August <hi>14.</hi>
+               </head>
+               <p>Whereas the Lord has made way, to bring forth into the World his Revelations sooner, than I expected or thought of, and commanded me very earnestly, to add thereunto, what I have suffered and suffer for being his Messenger, in bearing his Testimony to the World: And I endeavoured, to put it by, for shame's sake. There fear and trembling came upon me,
+<pb facs="tcp:106279:12"/> that I could not withstand it, but was forced to declare here<g ref="char:EOLhyphen"/>with openly, how for obeying the Word of the Lord, and his Commandments, I am reproached as a proud, wicked, de<g ref="char:EOLhyphen"/>ceived, deluded, lying Woman; a mad, melancholy, crack-brained, self willed, conceited Fool, and black Sinner, led by whimsies, notions, and knif-knafs of my own head; one that speaks blasphemy, not fit to take the Name of God in her mouth; an Heathen and Publican, a Fortune-teller, an En<g ref="char:EOLhyphen"/>thusiast, and the like much more, whereof I appeal to God, to judge: And then let all slanderers challenge their own words.</p>
+               <p>Thus we stand ready before the Lord, and attend upon him, to pass sentence, and to give a visible Testimony from Heaven, which of these two Spirits he will own? That Spirit, which hath dictated the Verses in this Book; or that, which speaks all those evil Words and Defamations: For God cannot own both.</p>
+               <p>And when it cometh to pass, that you Slanderers are found not only false Accusers and Persecutors, but also Rebukers, Controlers and Blasphemers against the Holy Ghost, and that therefore God shall make your Name to stink and rot upon the Earth, and put you to eternal shame for what you have done and said falsly of me, since you well know your selves, that whosoever loveth and maketh a Lye, must stand with<g ref="char:EOLhyphen"/>out with the Dogs and Sorcerers, and Whoremongers, and Murderers, and Idolaters. How is it then possible, that you, knowing this, can think to go unpunished by the just, true and holy God, who judgeth righteously? Therefore let all mark, how the Lord will fall upon you, and how quickly he will begin: For your lying words have made the Lords an<g ref="char:EOLhyphen"/>ger to burn hot against you; <hi>Ezek.</hi> 24.27. In that day shall my mouth be opened to him, which is escaped, and I shall speak, and be no more reviled, no more abused, no more persecuted: But you shall be a sign unto all people, and they shall know, that it is the Lord, that spake by me unto you, and all the People of <hi>England. Ezek.</hi> 24.25, 26. Shall it not be, saith the Lord, in the day, when I take from them their strength, (N B. <hi>New-years day!</hi>) the joy of their
+<pb facs="tcp:106279:13"/> Glory, the desire of their Eyes, and that whereupon they set their minds; that he, that escaped that day, shall come unto thee, <hi>and take thee by the hand,</hi> to cause thee, to hear it with thine Ears?</p>
+               <p>And as concerning my Husbands Behaviour towards me in this Case of the Lords, He the Lord will also judge be<g ref="char:EOLhyphen"/>twixt Him and Me, and make known, whether I am an impu<g ref="char:EOLhyphen"/>dent Hussy a disobedient Wife to him, one that run away from her Husband, and the like. Or whether He is the Man, that will not suffer me to live with him, that will not receive me into his Habitation, unless I deny the Lord, and his Message, and avow to be deluded by a lying Spirit. And therefore he takes no care of me, nor once looks after me these almost two years. These things the Lord will judge and bring to light, that all People shall know, how He likes of their encouraging my Husband against me, in making me the Butt of their malice; but my Husband, they make the patient, meek Lamb, and strengthen him thus against the Lord. Therefore all that have done, and do so, shall feel the Rod of an angry God, as there is <hi>Hanserd Knol<gap reason="illegible: missing" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ys</hi> with his Church, and <hi>Nehemiah Cocks,</hi> my Husbands Pastor, <hi>Thomas Hicks William Dicks, Philip Barder,</hi> my Relations, and hun<g ref="char:EOLhyphen"/>dreds more, that have a hand in setting my Husband against me, so that he will not own me: And then they go on, to blame and defame me, and say, that I am run away from him!</p>
+               <p>So far it is the will of God, that the World should know the true reason, why I must live alone and apart from my said Husband, which (as it will stand before God) is no other, but that I cannot deny the Testimony of <hi>Jesus,</hi> but keep the Commandments of God, being obedient to all his Wills. And this is the thing, the only thing, that makes my Husband and hundreds more, to be wroth with me, and endeavour to take away my good Name, in spreading abroad, that I keep Men company, and have my Rogues come to me, and live a scandalous life in an Alms house. But as the Pharisees of old said of the Son of God, that he was a gluttonous man, a Wine-bibber, a Friend of Publicans and Sinners, and one that
+<pb facs="tcp:106279:13"/> hath the Devil; and yet he bore it patiently: So shall I wait in patience, how the <hi>Lord Jesus</hi> doth love and like of their thus defaming me, which will be seen and known openly, for to be recorded to Generations to come.</p>
+               <p>After I had written this, the Word of the Lord came unto me, and said: My anger is greatly kindled, against all thy malicious lying Enemies, and I will appear a swift Witness against them, and pour out the Vials of my wrath upon them: And I will make my self known by the Judgment, which I will execute against them, by ensnaring them in the Works of their own Hands; even whilst they are in their wicked way of lying, and bold in their sin, I the Lord will appear with my Judgment against them.</p>
+               <p>Moreover the Lord said, <hi>The great Disappointment and Over<g ref="char:EOLhyphen"/>turning shall surely be accomplished, which did begin before New-years day</hi> 1677. <hi>for then was the beginning of what will now very shortly follow.</hi> And then they shall all know, saith the Lord, how falsly they have accused thee in that matter: And that they have spoken from a blind, dark, lying Spirit: And they shall see, that thou wast not deceived, or deluded, as they say, but that thou hast spoken the Truth in soberness, and in the fear of God: And I will decide the Controversie.</p>
+            </div>
+            <div n="17" type="revelation">
+               <head>
+                  <hi>Revelation XVII.</hi> August <hi>18.</hi>
+               </head>
+               <argument>
+                  <p>In the morning upon my Bed the Lord spake thus unto me, and made me write it down, as soon as I was up, before I was ready; Thus he said:</p>
+               </argument>
+               <l>If thy Enemies be angry at my Word,</l>
+               <l>Then angry they must be still;</l>
+               <l>For in Judgment will I the Lord</l>
+               <l>Meet them and do what is my will.</l>
+               <l>For their rejecting my Word, and fighting with me,</l>
+               <l>I the Lord will fight with all of them for thee,</l>
+               <l>And leave neither Root nor Branch to stand,</l>
+               <l>But cut them off out of the Land:</l>
+               <l>If they do not quickly repent,</l>
+               <l>No Life to them shall be lent.</l>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="to_the_reader">
+            <pb facs="tcp:106279:14"/>
+            <p>IN conclusion hereof, I thought fit to acquaint the pious Reader, how after that Mrs. <hi>Wentworth,</hi> by the contrivance of her Husband, was turned out of her House, which he did lett unknown to her; and then, she being commanded by the Lord not to quit it, he took away all, not a Stool to sit upon, not a Bed, nor any thing else left; and afterwards sent three of her Cosins, who took her out the House by force at <hi>Midsummer</hi> 1677. But in the year 1678. <hi>April</hi> 26. the Word of the Lord came unto her, saying, That he would return her, at <hi>Midsummer</hi> next follow<g ref="char:EOLhyphen"/>ing, into the same House again, notwithstanding all oppositions of men whatsoever, in despight of their Malice. And though her Husband would let her have no Houshold stuff, Bedding, and the like; yet he, the Lord, would provide her with all suitable convenien<g ref="char:EOLhyphen"/>cies, and Money too for her maintenance and House-Rent, by such as she never saw before: And that should be for a sign, that he, the Lord hath sent her, to give warning to the Nation, that an unheard-of overturn was coming upon them, unless they repent. Now all this, according to the Word of the Lord, is come to pass; for though all manner of oppositions from all sides, directly and indirectly, have been made, yet when the time, appointed by the Lord, was come, the Door of the House was opened to her, (by whom, God knows, for to this day she knows it not) and she entrd freely and took possession Soon after Beds were brought in, Chairs, Tables, and all manner of useful Things, until Hangings about the Room, and the like Furniture; Money also was and is not wanting to this day: yea more bountiful has been, and still is the Lord,
+<pb n="23" facs="tcp:106279:14"/> then he promised, even to the astonishment of all that have been, and are eye-witnesses of it. Thus wonder<g ref="char:EOLhyphen"/>fully doth the Lord own, that he hath sent her. Where<g ref="char:EOLhyphen"/>of if any desires further satisfaction, he may have it from her self; whilst the whole thing it self, being of a larger extent, then to be crowded in here, is making ready to be published.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </back>
+   </text>
+</TEI>
